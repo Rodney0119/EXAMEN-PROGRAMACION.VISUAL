@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XZ94KsA7zplZQY36MjzHL7aFlxZnRVbQlrBKlQ5eZlLD3R4ALqWahqNqKctweJITC3ysy8O+xc9qHs6V4XlUBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rodney\\Downloads\\PROGRAMACION VISUAL\\HERENCIA\\CLASES\\CLASES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodney\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rodney\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
